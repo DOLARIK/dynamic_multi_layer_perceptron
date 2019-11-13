@@ -11,7 +11,7 @@ Epochs: 49 (run before decrement in loss became less than 0.01)
 
 ### Loss
 
-![Loss](https://github.com/DOLARIK/dynamic_multi_layer_perceptron/tree/master/Results/100%20Neurons%20in%20Hidden%20Layer/Loss.jpg)
+![Loss](https://github.com/DOLARIK/dynamic_multi_layer_perceptron/blob/master/Results/100_neurons/Loss.jpg)
 
 ### Process Flow (Runtime)
 
@@ -112,7 +112,7 @@ Epochs: 49 (run before decrement in loss became less than 0.01)
 
 ### Loss
 
-![Loss](https://github.com/DOLARIK/dynamic_multi_layer_perceptron/tree/master/Results/300%20Neurons%20in%20Hidden%20Layer/Loss.jpg)
+![Loss](https://github.com/DOLARIK/dynamic_multi_layer_perceptron/blob/master/Results/300_neurons/Loss.jpg)
 
 ### Process Flow (Runtime)
 
